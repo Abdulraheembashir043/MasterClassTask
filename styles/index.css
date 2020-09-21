@@ -1,0 +1,21 @@
+body {
+  width: 100vw;
+  height: 100vh;
+  font-size: 20px;
+}
+.col-sm-6 {
+  margin: 10% auto auto;
+}
+.page {
+  border: 1px solid lightgreen;
+  margin: auto;
+  text-align: center;
+}
+.page .title {
+  text-transform: uppercase;
+  font-weight: bold;
+}
+.page a {
+  font-weight: bold;
+  font-weight: 2em;
+}
